@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+#idea
+.idea
+*.iml
+**/*.iml
+target
+**/target
+*.log
+**/*.log
+logs
+**/logs
+*.class
+
+#esclipe
+.classpth
+.projectConcern用例图.png
